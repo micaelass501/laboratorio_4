@@ -1,0 +1,56 @@
+{
+  "Estudiante": [
+    {
+      "id": 1,
+      "nombre": "Micaela Machicado",
+      "ci": 8302171,
+      "matricula": "CS1234",
+      "direccion": "Achachicala"
+    },
+    {
+      "nombre": "Manuel",
+      "ci": "76876",
+      "matricula": "CR23",
+      "direccion": "DFSDFSF",
+      "id": 2
+    }
+  ],
+  "Calificaciones": [
+    {
+      "id": 1,
+      "id_estudiante": 1,
+      "materia": "Matematica",
+      "nota": 70
+    },
+    {
+      "id": 2,
+      "id_estudiante": 1,
+      "materia": "Fisica",
+      "nota": 67
+    },
+    {
+      "id": 3,
+      "id_estudiante": 1,
+      "materia": "Quimica",
+      "nota": 25
+    },
+    {
+      "id_estudiante": 2,
+      "materia": "Matematica",
+      "nota": 70,
+      "id": 4
+    },
+    {
+      "id_estudiante": 2,
+      "materia": "Fisica",
+      "nota": 70,
+      "id": 5
+    },
+    {
+      "id_estudiante": 2,
+      "materia": "Quimica",
+      "nota": 70,
+      "id": 6
+    }
+  ]
+}
